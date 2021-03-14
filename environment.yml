@@ -2,4 +2,4 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - astra-toolbox
+  - astra-toolbox astra-toolbox
