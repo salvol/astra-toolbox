@@ -35,6 +35,5 @@ dependencies:
   - tk=8.6.10=h21135ba_1
   - wheel=0.36.2=pyhd3deb0d_0
   - matplotlib
-  - scikit-image
   - xz=5.2.5=h516909a_1
   - zlib=1.2.11=h516909a_1010
